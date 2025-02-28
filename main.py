@@ -2,7 +2,6 @@
 from os import getenv
 import os
 from moviepy.editor import VideoFileClip, concatenate_videoclips
-import glob
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 import telebot
 # variables
